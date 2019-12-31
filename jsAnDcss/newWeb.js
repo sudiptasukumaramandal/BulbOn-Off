@@ -15,4 +15,4 @@ button2.addEventListener('click', function(e){
 
 hed = document.querySelector('h2')
 hed.style.color = 'cyan';
-hed.innerHTML = `<b>Light on off by clicking below button</b>`;
+hed.innerHTML = `<b>Below Button help you to On and Off the light.</b>`;
